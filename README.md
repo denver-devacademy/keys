@@ -29,7 +29,7 @@ source ~/.zshrc
 3.
 4.
 5. ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAIYrNz1mxn3Hw+iw2WgFMQWFOWLjM7hadIEoJWYXnnm tools@devacademy.co.nz
-6.
+6. ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAIYrNz1mxn3Hw+iw2WgFMQWFOWLjM7hadIEoJWYXnnm tools@devacademy.co.nz
 7. ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAIYrNz1mxn3Hw+iw2WgFMQWFOWLjM7hadIEoJWYXnnm tools@devacademy.co.nz
 8.
 9.
