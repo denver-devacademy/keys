@@ -1,13 +1,17 @@
 # keys
 
+```sh
 git clone git@github.com:dokku/dokku.git ~/.dokku
+```
 
 ```sh
 export DOKKU_HOST='devacademy.nz'
 alias dokku='bash $HOME/.dokku/contrib/dokku_client.sh'
 ```
 
+```sh
 source ~/.zshrc
+```
 
 1.
 2.
