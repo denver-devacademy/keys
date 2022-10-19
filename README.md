@@ -34,4 +34,4 @@ source ~/.zshrc
 8.
 9.
 10.
-11.
+11. ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAIYrNz1mxn3Hw+iw2WgFMQWFOWLjM7hadIEoJWYXnnm tools@devacademy.co.nz
