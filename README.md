@@ -12,7 +12,7 @@ cd ~/.dokku && git checkout v0.28.1
 ```
 
 ```sh
-code ~./zshrc
+code ~/.zshrc
 ```
 
 ```sh
