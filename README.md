@@ -10,7 +10,7 @@
 | Alyssa | | no |
 | Denver | | no |
 | Emelyn | | no |
-| Matt | | no |
+| Matt | | no |ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID9D/RxcogLj4v/Eg3MyQjkeNlhSLHFEUozllb7tLigf mattjob@me.com
 | Serafin | | no |
 | Louis | | no |
 | Shaneel | | no |
