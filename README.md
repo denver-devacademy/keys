@@ -3,8 +3,7 @@
 | name | key | done (for kelly) |
 |---|---|---|
 | Allie | | no |
-| Michael |ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMsph1hABuT6aYxDntUAQmfmHp2kghrTZjbLkn5AhFfP mreisch88@gmail.com
- | no |
+| Michael | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMsph1hABuT6aYxDntUAQmfmHp2kghrTZjbLkn5AhFfP mreisch88@gmail.com | yes |
 | Karan |AAAAC3NzaC1lZDI1NTE5AAAAINSB0C+d5ZV/lqecVQ/AjHMRxLfc+RJzwPKRmbXMDRNp | no |
 | Mimi | | no |
 | Alyssa | | no |
