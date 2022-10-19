@@ -5,6 +5,10 @@ git clone git@github.com:dokku/dokku.git ~/.dokku
 ```
 
 ```sh
+code ~./zshrc
+```
+
+```sh
 export DOKKU_HOST='devacademy.nz'
 alias dokku='bash $HOME/.dokku/contrib/dokku_client.sh'
 ```
