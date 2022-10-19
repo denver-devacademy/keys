@@ -14,7 +14,7 @@
 | Serafin | | no |
 | Louis | | no |
 | Shaneel | | no |
-| Kelsey | | no |
+| Kelsey | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBh1fTcdj64blRpbzVlTZpPBismWkIt32JJLVKtbJuv/ kelseypaterson72@gmail.com | no |
 | Aaron | | no |
 | Mel | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK3AObuxQpBmK0k4cO870nL2d61w1GwFBb0tP7SKkYZb melforbes05@gmail.com | no |
 | Ashley | | no |
