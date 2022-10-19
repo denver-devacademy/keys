@@ -7,6 +7,9 @@ code /home/student/.ssh/id_ed25519.pub
 ```sh
 git clone git@github.com:dokku/dokku.git ~/.dokku
 ```
+```sh
+cd ~/.dokku && git checkout v0.28.1
+```
 
 ```sh
 code ~./zshrc
