@@ -8,7 +8,7 @@
 | Mimi | | no |
 | Alyssa | | no |
 | Denver | | no |
-| Emelyn | | no |
+| Emelyn | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILUyDfPFu8hzkNxEFFFZmRLR38RMgoEoeXvw7KxGTIB8 emelyn.barrientos22@gmail.com | no |
 | Matt | | no |ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID9D/RxcogLj4v/Eg3MyQjkeNlhSLHFEUozllb7tLigf mattjob@me.com
 | Serafin | | no |
 | Louis | | no |
